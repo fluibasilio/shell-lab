@@ -1,0 +1,5 @@
+Button:botão
+Component:componente
+Additional:adicional
+<li>Line<\/li>:
+Test:Teste
