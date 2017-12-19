@@ -9,7 +9,7 @@ for line in $(cat words.txt);
   B="$(cut -d':' -f2 <<<"$line")"
   echo "$B"
 
-  cd /Users/fernando/projetos/shell/loop/html/subpasta/;
+  cd /Users/fernando/projetos/shell/shell-translate/html/subpasta/;
   
   sed $file -i '.bkp' 's/'$A'/'$B'/g' *.html
 
