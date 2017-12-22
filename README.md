@@ -1,7 +1,15 @@
 # shell-lab
 
-## translate
-### traducao **"de > para"** baseado em arquivo de texto
+Lab shell para testes diversificados.
 
-## concat
-### concatenacao de string baseado em arquivo de texto
+## translate.sh
+### tradução **"de > para"** baseado em arquivo de texto
+
+## concat.sh
+### concatenação de string baseado em arquivo de texto
+
+Para dar permissão ao **arquivo.sh** executar:
+
+``
+sudo chmod 755 'arquivo.sh'
+``
