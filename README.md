@@ -3,11 +3,12 @@
 Lab shell para testes diversificados.
 
 ## translate.sh
-### tradução **"de > para"** baseado em arquivo de texto
+tradução **"de > para"** baseado em arquivo de texto
 
 ## concat.sh
-### concatenação de string baseado em arquivo de texto
+concatenação de string baseado em arquivo de texto
 
+## extra
 Para dar permissão ao **arquivo.sh** executar:
 
 ``
